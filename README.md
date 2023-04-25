@@ -1,15 +1,13 @@
 # quizzler
-
-A new Flutter project.
+this is a flutter quiz app, where you answer questions and the result is shown after your quiz. 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Run:
+- git clone git@github.com:bethel-m/quizzler.git
+- cd quizzler
+- flutter pub get 
+- flutter run
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
